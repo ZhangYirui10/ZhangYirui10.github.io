@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year phd student from [School of Computing](https://eecs.pku.edu.cn/), [National University of Singapore](https://www.pku.edu.cn/). My research interest includes AI for data and data for AI.
+I'm a first year phd student from School of Computing, National University of Singapore. My research interest includes AI for data and data for AI.
 
-I am very fortunate to be advised by [Prof. Lu Yao](https://yao.lu/) of Scalable AI Lab, National University of Singapore. I was advised by Prof. Hu Linmei and Prof. Lijie from Beijing University of Posts and Telecommunications.
+I am very fortunate to be advised by [Prof. Lu Yao](https://yao.lu/) of Scalable AI Lab, National University of Singapore. I was advised by Prof. Hu Linmei and Prof. Li jie from Beijing University of Posts and Telecommunications.
 
 You can find my CV here: [Zhang Yirui's CV](../assets/Curriculum_Vitae.pdf).
